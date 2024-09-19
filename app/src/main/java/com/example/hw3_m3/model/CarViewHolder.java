@@ -1,8 +1,5 @@
-package com.example.hw3_m3;
+package com.example.hw3_m3.model;
 
-import android.view.View;
-
-import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;

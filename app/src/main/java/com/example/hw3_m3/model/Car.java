@@ -1,4 +1,4 @@
-package com.example.hw3_m3;
+package com.example.hw3_m3.model;
 
 public class Car {
     private String name;

@@ -5,13 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".fragments.FirstFragment">
+    tools:context=".fragments.SecondFragment">
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/rv_cars"
+        android:id="@+id/rv_cars2"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
-        tools:listitem="@layout/item_car" />
+        tools:listitem="@layout/item_car2" />
 
 </FrameLayout>

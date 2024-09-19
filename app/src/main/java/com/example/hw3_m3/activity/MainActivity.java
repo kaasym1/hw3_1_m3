@@ -1,4 +1,4 @@
-package com.example.hw3_m3;
+package com.example.hw3_m3.activity;
 
 import android.os.Bundle;
 
@@ -7,6 +7,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+
+import com.example.hw3_m3.R;
+import com.example.hw3_m3.fragments.FirstFragment;
 
 public class MainActivity extends AppCompatActivity {
 
